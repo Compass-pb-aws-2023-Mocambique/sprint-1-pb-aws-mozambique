@@ -12,7 +12,7 @@ Faça um sistema em JavaScript para verificação de PIN (Personal Identificatio
 
 Passo a passo para iniciar o projeto:
 
-1. Criem um repositório no Github para subir seu código.
+1. Crie um repositório no Github para subir seu código.
 2. Crie um arquivo para colocar seu programa JavaScript (.js).
 3. Desenvolva o código, que deverá conter as seguintes características:
     - solicite ao usuário que insira um número de no mínimo **quatro dígitos**;
