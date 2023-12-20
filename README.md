@@ -51,4 +51,4 @@ Passo a passo para iniciar o projeto:
     - documentar detalhes sobre como a avaliação foi desenvolvida;
     - descrever as dificuldades conhecidas;
   - 🔨 fornecer o código fonte desenvolvido (Sugestão: pasta `src`);
-- O prazo de entrega do link do repositório na sua weekly do dia 09/01/2024, para quem é de terça, dia 10/01/2024, para quem é de quarta, e dia 11/01/2024, para quem é de quinta. 
+- O prazo de entrega do link do repositório no chat de sua sua weekly do dia 09/01/2024, para quem é de terça, dia 10/01/2024, para quem é de quarta, e dia 11/01/2024, para quem é de quinta. 
